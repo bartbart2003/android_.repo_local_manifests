@@ -1,7 +1,7 @@
 #!/bin/bash
 # Generic Variables
 _android_version="6.0.1"
-_echo_android="MarshMallow"
+_echo_android="Marshmallow"
 _custom_android="cm-13.0"
 _echo_custom_android="CyanogenMod"
 _echo_custom_android_version="13"
