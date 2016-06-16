@@ -1,4 +1,4 @@
-Manifest for Android MarshMallow / CyanogenMod 13.0
+Manifest for Android Marshmallow / CyanogenMod 13.0
 ====================================
 Project M4|L5 / Project U0|L7 / Project V1|L1II / Project Vee3|L3II
 
@@ -6,7 +6,7 @@ Project M4|L5 / Project U0|L7 / Project V1|L1II / Project Vee3|L3II
 
 Automatic Way:
 
-script to download manifests, sync repo  and build:
+script to download manifests, sync repo and build:
 
     curl --create-dirs -L -o build.sh -O -L https://raw.github.com/TeamVee/android_.repo_local_manifests/cm-13.0/build.sh
 
@@ -58,7 +58,7 @@ Initialize the environment:
 
 ---
 
-Apply patchs for all devices:
+Apply patches for all devices:
 
     repopick 144710 144831 144976
 
